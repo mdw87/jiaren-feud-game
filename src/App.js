@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="App">
       <header className="app-header">
-        <h1>Language Feud Game</h1>
+        <h1>Chinese Feud</h1>
         <button 
           className="toggle-button"
           onClick={() => setIsEditing(!isEditing)}
