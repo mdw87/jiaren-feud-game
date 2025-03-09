@@ -3,9 +3,8 @@ import React, { useState } from 'react';
 import Question from './Question';
 import AnswerGrid from './AnswerGrid';
 import NavigationBar from './NavigationBar';
-import questions from '../data/questions';
 
-function Game() {
+function Game({ questions }) {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [revealedAnswers, setRevealedAnswers] = useState(
     Array(questions.length).fill().map(() => Array(8).fill(false))
