@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jiaren-feud-game/static/css/main.4a657751.css",
-    "main.js": "/jiaren-feud-game/static/js/main.fc5f0a88.js",
+    "main.css": "/jiaren-feud-game/static/css/main.4543547a.css",
+    "main.js": "/jiaren-feud-game/static/js/main.5594e74d.js",
     "static/js/453.04beb3d4.chunk.js": "/jiaren-feud-game/static/js/453.04beb3d4.chunk.js",
     "index.html": "/jiaren-feud-game/index.html",
-    "main.4a657751.css.map": "/jiaren-feud-game/static/css/main.4a657751.css.map",
-    "main.fc5f0a88.js.map": "/jiaren-feud-game/static/js/main.fc5f0a88.js.map",
+    "main.4543547a.css.map": "/jiaren-feud-game/static/css/main.4543547a.css.map",
+    "main.5594e74d.js.map": "/jiaren-feud-game/static/js/main.5594e74d.js.map",
     "453.04beb3d4.chunk.js.map": "/jiaren-feud-game/static/js/453.04beb3d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a657751.css",
-    "static/js/main.fc5f0a88.js"
+    "static/css/main.4543547a.css",
+    "static/js/main.5594e74d.js"
   ]
 }
